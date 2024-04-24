@@ -1,7 +1,6 @@
 public class Calculator {
     private double result;
 
-    // This is a constructor - Sempre e chamado no momento que a classe e instanciada
     Calculator(double result) {
         this.result = result;
     }
@@ -47,13 +46,4 @@ public class Calculator {
 
         return this.result;
     }
-
 }
-
-/*
-    * - Propriedade de uma classe
-    * - Getter & Setter
-    * - Construtor
-    * - Quando usar o this e quando nao usar
-    * - Diff de Private vs Public { Depois para frente ver protected }
-*/

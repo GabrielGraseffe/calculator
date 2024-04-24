@@ -1,7 +1,3 @@
-import java.util.Scanner;
-
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
 
     public static void main(String[] args) {
@@ -22,9 +18,3 @@ public class Main {
         } while (true);
     }
 }
-
-/*
-Challenge for next week:
-- Repensar como mostramos o resultado final. Ou seja, ha como nao ficar botando o valor na variavel resultado e mostrar?
-- Podemos repensar a forma como fazemos a repeticao ou usar o conceito de getter. Ou outra forma? Pensa (no pior dos casos, tenta chat gpt)
-*/

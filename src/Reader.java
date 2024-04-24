@@ -27,5 +27,4 @@ public class Reader {
             System.out.println("Parametro invalido");
         }while(true);
     }
-
 }
